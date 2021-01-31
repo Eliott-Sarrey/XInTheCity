@@ -1,6 +1,5 @@
 #include "City.h"
 #include "Transport.h"
-#include "edit_text_files.h"
 
 #include <Resource.hpp>
 #include <ResourceLoader.hpp>
